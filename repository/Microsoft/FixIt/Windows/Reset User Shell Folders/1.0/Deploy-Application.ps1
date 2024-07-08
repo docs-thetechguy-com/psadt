@@ -77,28 +77,22 @@ PACKAGING AND DEPLOYMENT NOTES v2024.07.08
 ================================================
 	
 Where can the latest media be acquired from?
-Example: Browse to https://get.adobe.com/reader/enterprise
-Media Location: 
+Media Location: N/A
 
 What special actions need performed to access the source media? 
-Example: Select Windows 10, English, latest version from the drop-down list. Click Download now. 
-Media Location Details: 
+Media Location Details: N/A
 
 What steps need performed to the source media before it can be installed with this toolkit? 
-Example: Extract EXE installer using 7-Zip
-Media Preparation: 
+Media Preparation: N/A
 
 Where are the silent and unattended installation instructions documented?
-Example: https://www.adobe.com/devnet-docs/acrobatetk/tools/AdminGuide/properties.html
-Installation Guide: 
+Installation Guide: N/A
 
 What special steps need taken to prepare this application for unattended installation? 
-Example: Create a Microsoft Transform (MST) file using https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard
-Unattended Guide: 
+Unattended Guide: N/A
 
 What steps can be performed to test the application after installation?
-Example: Save the document https://wwwimages2.adobe.com/content/dam/acom/en/feature-details/acrobat/axi/pdfs/create-forms-sample.pdf. Open with this application and verify input options are available.
-Testing Guide: 
+Testing Guide: N/A
 
 What method will be used to determine if this application is installed\uninstalled?
 Endpoint Manager Detection Method: Registry
